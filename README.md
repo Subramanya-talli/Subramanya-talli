@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, Backend Frame Works**
 
-- 💬 Ask me about **Data structure and Algorithms, HTML, CSS, JavaScript, React**
+- 💬 Ask me about **Data structure and Algorithms, HTML, CSS, JavaScript, React.Js**
 
 - 📫 How to reach me **subramanya.talli@gmail.com**
 
