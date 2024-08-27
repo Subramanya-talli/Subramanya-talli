@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subramanya-talli&label=Profile%20views&color=0e75b6&style=flat" alt="subramanya-talli" /> </p>
 
-- 🌱 I’m currently learning **Working on BackEnd Development**
+- 🌱 I’m currently learning **on BackEnd Development**
 
 - 💬 Ask me about **Node.js, Express.js, JavaScript, MongoDB, C++, C, HTML, CSS, Data structure and Algorithms**
 
