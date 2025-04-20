@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Subramanya Talli**, and I'm an **Aspiring Software Engineer**</p>
+<p align="left">My name is <strong>Subramanya Talli</strong>, and I'm an <strong>Aspiring Software Engineer</strong></p>
 
 ###
 
