@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">✨I have been engaged in application development. Currently, I am pursuing studies in full-stack development, and I possess a keen interest in addressing data structures and algorithms (DSA) challenges.</h6>
+<h4 align="left">✨I have been engaged in application development. Currently, I am pursuing studies in full-stack development, and I possess a keen interest in addressing data structures and algorithms (DSA) challenges.</h4>
 
 ###
 
